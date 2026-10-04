@@ -8,3 +8,5 @@ PHP · REST API · MySQL/MariaDB · JavaScript · HTML5/CSS3 · RBAC · Git · D
 - Custom business websites (see https://noken13-studio.vercel.app)
 ## Open to
 Remote full-time or contract work.
+
+📄 [Portfolio (PDF)](Portfolio_Noken13_public.pdf)
